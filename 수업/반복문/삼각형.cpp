@@ -1,18 +1,16 @@
 #include<stdio.h>
 
-//보류 
+//우수경 코드 
 int main() {
-	for(int i = 0; i<5; i++) {
-		for(int j=4; j>0; j--) {
+	int i = 0, j = 0;
+	for(j=1; j<=5; j++) {
+		for(i=5;i>=j;i--) {
 			printf(" ");
 		}
-		for(int j=0; j<i+j; j++) {
-			printf("*");
-		}
-		for(int j=0; j<i; j++) {
-			printf("*");
+		for(i=1;i<=j;i++) {
+			printf("* ");
 		}
 		printf("\n");
-	}
+	} 
 	return 0;
 }
