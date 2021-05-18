@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void Rec(int max, int a, int b) {
-	if(max <= (a+b)) {
+	if(max < (a+b)) {
 		printf("yes");
 	}
 	else {
