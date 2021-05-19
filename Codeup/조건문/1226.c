@@ -23,6 +23,6 @@ int main() {
 	}
 	}
 	if(cnf > 5) printf("0");
-	else printf("%d",cnf-1);
+	else printf("%d",cnf);
 	return 0;
 }
