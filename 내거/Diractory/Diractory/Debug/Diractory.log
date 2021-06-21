@@ -1,0 +1,70 @@
+﻿  소스.cpp
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(8,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(9,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(10,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(11,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(12,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(13,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(14,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(15,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(16,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(17,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(18,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(19,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(20,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(21,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(22,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(23,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(24,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(25,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(26,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(27,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(28,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(29,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(30,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(31,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(32,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(33,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(34,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(35,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(36,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(37,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(38,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(39,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(40,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(41,7): error C2369: 'words': 재정의. 첨자가 다릅니다.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(7): message : 'words' 선언을 참조하십시오.
+C:\Users\SW2148\OneDrive - 부산소프트웨어마이스터고등학교\바탕 화면\C\내거\Diractory\Diractory\소스.cpp(50,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
