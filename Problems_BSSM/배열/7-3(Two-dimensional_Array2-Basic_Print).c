@@ -4,7 +4,7 @@ int main() {
 	int i,j,num = 0,count = 1;
 	scanf("%d",&num);
 	for(i = 1; i<=num; i++) {
-		for(j=1;j<=num;+j++) {
+		for(j=1;j<=num;j++) {
 			arr[i][j] = count;
 			count++;
 		}
