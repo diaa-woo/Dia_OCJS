@@ -2,11 +2,14 @@
 
 void main() {
 	int a = 0,b = 0;
+	double af = 0;
 	scanf("%d",&a);
+	af = a;
 	for(int i = 0; i<100;i++) {
-		a /= 10;
+		af /= 10;
 		b++;
-		if(a/10<=9) break;
+		if(af<1) break;
 	}
 	printf("%d",b);
+	return;
 }
