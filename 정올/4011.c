@@ -1,26 +1,50 @@
 #include<stdio.h>
 
 int main() {
-	char front[6] = {0,}, end[7] = {0,}, sex = 0, year[3] = {0,}; 
-	scanf("%s-%s",&front,&end);
-	if(end[0] == '1' && end[0] == '2') for(int i = 0; i<3; i++) {
-		if(i == 0) {
-			year[0] = '19';
-			continue;
-		}
-		else year[i] = front[i-1];
+	char front[14] = {0,}, sex = 0, year[3] = {0,}; 
+	for(int i = 0; i<14; i++) {
+		scanf("%c",&front[i]);
 	}
-	if(end[0] == '1' || end[0] == '3') sex = 'M';
+	for(int i = 0; i<10; i++) {
+		switch(i) {
+			case 0:
+				if(front[7] <='2') {
+					printf("19");
+				}
+				else {
+					printf("20");
+				}
+				break;
+			case 2:
+				printf("%c",front[i-2]);
+				break;
+			case 3:
+				printf("%c",front[i-2]);
+				break;
+			case 4:
+				printf("/");
+				break;
+			case 5: 
+				printf("%c",front[i-3]);
+				break;
+			case 6:
+				printf("%c",front[i-3]);
+				break;
+			case 7:
+				printf("/");
+				break;
+			case 8: 
+				printf("%c",front[i-4]);
+				break;
+			case 9:
+				printf("%c",front[i-4]);
+				break;
+			default:
+				break;
+		}
+	}
+	if(front[7] == '1' || front[7] == '3') sex = 'M';
 	else sex = 'F';
-	for(int i = 0; i<9; i++) {
-		if(i<3) {
-			printf("%c",year[i]);
-			continue;
-		}
-		else if(i == 4 || i == 7) printf("/");
-		else if(i == 5 || i == 6) printf("%c",front[i-3]);
-		else if(i == 8 || i == 9) printf("%c",front[i-5]);
-	}
 	printf(" %c",sex);
 	return 0;
 }
